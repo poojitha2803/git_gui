@@ -1,2 +1,1 @@
-# git_gui
 Sravya
